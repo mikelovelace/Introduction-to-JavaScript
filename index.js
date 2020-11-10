@@ -39,9 +39,14 @@ Do the following:
    HINT: no function required
 */
 
+let cat = "meow";
+let dog = "bark";
 
+if(dog = "bark") {
+  cat = "moo";
+}
 
-
+console.log(cat)
 
 /*
 Task 1c - Convert Strings to Numbers
