@@ -26,8 +26,6 @@ if (votingAge >= 18) {
   console.log(false);
 }
 
-
-
 /*
 Task 1b - Values
 
@@ -42,7 +40,7 @@ Do the following:
 let cat = "meow";
 let dog = "bark";
 
-if(dog = "bark") {
+if(dog === "bark") {
   cat = "moo";
 }
 
