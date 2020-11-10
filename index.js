@@ -72,7 +72,7 @@ Do the following:
 function multiply(a, b){
     return a * b
   }
-console.log(multiply(2, 4))
+console.log(multiply(9, 9))
 
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀*/
@@ -85,9 +85,10 @@ Do the following:
    3. Return the newly calculated age
 */
 
-function dogYears(/*add your code here*/){
-    /*add your code here*/
+function dogYears(humanAge){
+    return humanAge * 7
 }
+console.log(dogYears(4))
 
 
 
